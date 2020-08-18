@@ -2,6 +2,9 @@
 
 (WIP. Introductions to AV topics and tutorials for simulation setup and software installation goes here.)
 
-## Markdown (README.md) formatting tutorial:
-https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
-
+## Useful Links
+### [Markdown (README.md) formatting tutorial](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+### [F1Tenth Group Repo](https://github.com/f1tenth)
+### [OpenAI Gym](https://gym.openai.com/)
+### [ROS Wiki](http://wiki.ros.org)
+### [Airsim Wiki](https://github.com/Microsoft/AirSim)
