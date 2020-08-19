@@ -8,3 +8,5 @@
 ### [OpenAI Gym](https://gym.openai.com/)
 ### [ROS Wiki](http://wiki.ros.org)
 ### [Airsim Wiki](https://github.com/Microsoft/AirSim)
+### [Deep Learning (for the mind)]()
+
