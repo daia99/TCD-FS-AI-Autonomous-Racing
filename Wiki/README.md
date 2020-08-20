@@ -8,5 +8,5 @@
 ### [OpenAI Gym](https://gym.openai.com/)
 ### [ROS Wiki](http://wiki.ros.org)
 ### [Airsim Wiki](https://github.com/Microsoft/AirSim)
-### [Deep Learning (for the mind)]()
+### [Deep Learning (for the mind)](https://github.com/daia99/TCD-FS-AI-Autonomous-Racing/tree/master/Learning/Self-Deep-Learning)
 
