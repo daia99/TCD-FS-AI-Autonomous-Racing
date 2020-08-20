@@ -10,6 +10,11 @@ This section will go over the following topics:
 - [Future Development of Autonomous Racing](https://github.com/daia99/TCD-FS-AI-Autonomous-Racing/blob/master/Learning/Self-Deep-Learning/1-Intro-to-Robotics-Racing.md#future-development-of-autonomous-racing)
 
 ## Robot: Dictionary Definition
+According to Google, the definition for robot is:
+> (especially in science fiction) a machine resembling a human being and able to replicate certain human movements and functions automatically.
+
+The other, more applicable definition for robot:
+> a ***machine*** capable of carrying out a complex series of actions ***automatically***, especially one ***programmable by a computer***.
 ## Robot: Cool Examples
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
