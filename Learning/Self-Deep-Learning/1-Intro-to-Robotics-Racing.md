@@ -15,6 +15,14 @@ According to Google, the definition for robot is:
 
 The other, more applicable definition for robot:
 > a ***machine*** capable of carrying out a complex series of actions ***automatically***, especially one ***programmable by a computer***.
+
+#### What does this mean?
+A robot is not an assembly of moving parts, or a computer.
+
+A robot is a complex body with a brain (computer) giving it adaptable intelligence to change the physical world. Body and mind working together.
+
+[Article](https://robots.ieee.org/learn/what-is-a-robot/) from IEEE with expert perspectives on robots
+
 ## Robot: Cool Examples
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
