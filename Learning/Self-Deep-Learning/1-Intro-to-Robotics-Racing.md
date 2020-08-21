@@ -30,7 +30,7 @@ A robot is a complex body with a brain (computer) giving it adaptable intelligen
 ## Robot: Cool Examples
 | ASIMO v1 (2000) | Description |
 | :---: | :---: |
-| <img style="max-width: 250px; height: auto; " src="../images/1-robot1.jpg" /> | List all new or modified files |
+| <img style="max-width: 250px; height: auto; " src="/images/1-robot1.jpg" /> | List all new or modified files |
 
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
