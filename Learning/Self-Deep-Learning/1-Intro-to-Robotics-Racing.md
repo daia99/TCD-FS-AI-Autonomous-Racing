@@ -30,7 +30,8 @@ A robot is a complex body with a brain (computer) giving it adaptable intelligen
 ## Robot: Cool Examples
 | ASIMO v1 (2000) | Description |
 | :---: | :---: |
-| ![](https://images.squarespace-cdn.com/content/v1/56d93514b09f954960c1eaaa/1559769313640-RU1ZAR3ISS7GAJRE6TEQ/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/as1.jpg?format=2500w)  | List all new or modified files |
+| ![](https://images.squarespace-cdn.com/content/v1/56d93514b09f954960c1eaaa/1559769313640-RU1ZAR3ISS7GAJRE6TEQ/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/as1.jpg?format=2500w) height=48px <img src="https://images.squarespace-cdn.com/content/v1/56d93514b09f954960c1eaaa/1559769313640-RU1ZAR3ISS7GAJRE6TEQ/ke17ZwdGBToddI8pDm48kFQQgP34qnCpeHaeAOzTt7pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICHnXC1b9smDvYLPdL-DS7U1pkhCtl83kemXd5r3C5ngKMshLAGzx4R3EDFOm1kBS/as1.jpg?format=2500w)" width="250" height="250"/>
+ | List all new or modified files |
 
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
