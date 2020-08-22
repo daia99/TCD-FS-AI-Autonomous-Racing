@@ -28,9 +28,11 @@ A robot is a complex body with a brain (computer) giving it adaptable intelligen
 [Article](https://robots.ieee.org/learn/what-is-a-robot/) from IEEE with expert perspectives on robots
 
 ## Robot: Cool Examples
-| ASIMO v1 (2000) | Description |
-| :---: | :---: |
-| <img style="max-width: 50px; height: auto; " src="Images/1-robot1.jpg" /> | List all new or modified files |
+| Unimate (1954) | WABOT-1 (1972) | Asimo v1 (2000) | MQ-9 Reaper |
+| :---: | :---: | :---: | :---: |
+| <img src="Images/1-robot1.jpg" width="200" /> | <img src="Images/1-robot2.jpg" width="200" /> | <img src="Images/1-robot3.jpg" width="200" /> | <img src="Images/1-robot4.jpg" width="200" /> |
+| :---: | :---: | :---: | :---: |
+| First industrial robot | First android | Early bipedal social robot (cobot) | Autonomous military drone |
 
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
