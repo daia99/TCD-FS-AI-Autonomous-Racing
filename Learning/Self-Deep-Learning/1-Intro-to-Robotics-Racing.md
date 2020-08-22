@@ -31,8 +31,12 @@ A robot is a complex body with a brain (computer) giving it adaptable intelligen
 | Unimate (1954) | WABOT-1 (1972) | Asimo v1 (2000) | MQ-9 Reaper |
 | :---: | :---: | :---: | :---: |
 | <img src="Images/1-robot1.jpg" width="200" /> | <img src="Images/1-robot2.jpg" width="200" /> | <img src="Images/1-robot3.jpg" width="200" /> | <img src="Images/1-robot4.jpg" width="200" /> |
+| First industrial robot | First android | Early bipedal cobot | Autonomous military drone |
+
+| Ion Surgical System | Spot (Boston <br /> Dynamics) | KUKA LBR iiwa | Particle robots |
 | :---: | :---: | :---: | :---: |
-| First industrial robot | First android | Early bipedal social robot (cobot) | Autonomous military drone |
+| <img src="Images/1-robot5.jpg" width="200" /> | <img src="Images/1-robot6.png" width="200" /> | <img src="Images/1-robot7.png" width="200" /> | <img src="Images/1-robot8.jpg" width="200" /> |
+| Bronchoscopy robot | Mobile robot dog | Safe industrial cobot | Biologically inspired <br /> concept |
 
 ## Robot: Impact on Society
 ## Robot: Ethics and Safety
