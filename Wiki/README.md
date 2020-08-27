@@ -11,3 +11,4 @@
 ### [Deep Learning (for the mind)](../Learning/Self-Deep-Learning)
 ### [Some Research Articles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=autonomous+racing&btnG=)
 ### [Learn X in Y minutes (C++/Python available)](https://learnxinyminutes.com/)
+### [Parallel Computing Intro Video Series](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2&index=1)
