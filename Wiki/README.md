@@ -10,3 +10,4 @@
 ### [Airsim Wiki](https://github.com/Microsoft/AirSim)
 ### [Deep Learning (for the mind)](../Learning/Self-Deep-Learning)
 ### [Some Research Articles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=autonomous+racing&btnG=)
+### [Learn X in Y minutes (C++/Python available)](https://learnxinyminutes.com/)
