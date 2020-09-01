@@ -8,6 +8,8 @@
 ### [ROS Wiki](http://wiki.ros.org)
 ### [Airsim Wiki](https://github.com/Microsoft/AirSim)
 ### [Deep Learning (for the mind)](../Learning/Self-Deep-Learning)
+### [CVX: MATLAB-Based Convex Programming](http://cvxr.com/cvx/)
+### [Ipopt: General Nonlinear Programming](https://github.com/coin-or/Ipopt)
 
 ## Programming
 ### [Learn X in Y minutes (C++/Python available)](https://learnxinyminutes.com/)
@@ -16,3 +18,5 @@
 ## Extra Learning
 ### [Some Research Articles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=autonomous+racing&btnG=)
 ### [Parallel Computing Intro Video Series](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2&index=1)
+### [Raceline Optimization Models](http://planning.cs.uiuc.edu/node820.html)
+
