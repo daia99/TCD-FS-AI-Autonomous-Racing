@@ -10,6 +10,7 @@
 ### [Deep Learning (for the mind)](../Learning/Self-Deep-Learning)
 ### [CVX: MATLAB-Based Convex Programming](http://cvxr.com/cvx/)
 ### [Ipopt: General Nonlinear Programming](https://github.com/coin-or/Ipopt)
+### [Docker: App Container](https://docs.docker.com/)
 
 ## Programming
 ### [Learn X in Y minutes (C++/Python available)](https://learnxinyminutes.com/)
