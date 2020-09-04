@@ -21,5 +21,5 @@
 ### [Some Research Articles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=autonomous+racing&btnG=)
 ### [Parallel Computing Intro Video Series](https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2&index=1)
 ### [Raceline Optimization Models](http://planning.cs.uiuc.edu/node820.html)
-### [Introductory RL Course (David Silver - Deepmind)](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+### [Introductory RL Course (David Silver - Deepmind) -> More Playlists in Channel](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
 
